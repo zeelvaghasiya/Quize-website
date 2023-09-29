@@ -1,2 +1,2 @@
 # Quize-website
-This is simple Java Script project
+This is simple quize website which build using HTML, CSS, Java Script 
